@@ -9,7 +9,7 @@
         "cbit_IR": "github:zhuning239/cBit_IR",
         "TM1650": "github:Hypernimtz/TM1650",
         "sonar": "github:zhuning239/sonar",
-        "ps2": "github:Hypernimtz/PS2"
+        "ps2controller": "github:Hypernimtz/PS2"
     },
     "files": [
         "README.md",
